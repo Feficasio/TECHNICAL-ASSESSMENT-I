@@ -1,10 +1,7 @@
-# TECHNICAL-ASSESSMENT-I
-Sebagai System Engineer, anda ditugaskan membuat deret bilangan aritmatika dengan N jumlah. 
-Contoh : 
-Input : 4 
-Output : 2,5,8,11 
+Untuk Menjalankan / Running File Bisa Menggunakan Python Compiler Online
 
-Input : 7 
-Output : 2,5,8,11,14,17,20
+1. Python
+   https://www.programiz.com/python-programming/online-compiler/
 
-Jawablah Untuk Melakukan Code Python Dengan Deret 3
+lalu di file script.py
+copy code yang sudah tersedia untuk menjalankan perintah 
